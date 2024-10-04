@@ -21,15 +21,13 @@ public class App {
         inventory.add(new Book(3, "9780142402511", "The Adventures of Captain Underpants"));
         inventory.add(new Book(4, "9780316769488", "Junie B. Jones"));
         inventory.add(new Book(5, "9780061120084", "To Kill a Mockingbird"));
-        inventory.add(new Book(6, "9780061120084", "Where the Wild Things"));
-        inventory.add(new Book(7, "9780061120084", "Curious George"));
-        inventory.add(new Book(8, "9780061120084", "Don't Let the Pigeon Drive the Bus!"));
-        inventory.add(new Book(9, "9780061120084", "The Rainbow Fish"));
+        inventory.add(new Book(6, "9780061120053", "Where the Wild Things Are"));
+        inventory.add(new Book(7, "9785454540084", "Curious George"));
+        inventory.add(new Book(8, "9780065434566", "Don't Let the Pigeon Drive the Bus!"));
+        inventory.add(new Book(9, "97805453677652", "The Rainbow Fish"));
 
 
 
-
-        displayMenu()''
 
 
 
